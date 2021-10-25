@@ -2,6 +2,9 @@
 I'm a Vue.js fanboy who loves putting pixels on a screen.
 Anything front-end, I'll certainly play around with it.
 
+### Current projects
+- [Hero Blue](https://heroblue.com.au/) (in beta)
+- [LunchFox](https://lunchfox.com.au/) (in beta)
 
 
 <!--
