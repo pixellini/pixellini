@@ -1,4 +1,4 @@
-### Hi, I'm Jake!
+### Hi, I'm Jake! 👋
 I'm a Vue.js fanboy who loves putting pixels on a screen.
 Anything front-end, I'll certainly play around with it.
 
