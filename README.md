@@ -1,6 +1,5 @@
-### Vue.js fanboy
-
-### I love putting pixels on a screen
+### Hi, I'm Jake!
+I'm a Vue.js fanboy who loves putting pixels on a screen.
 Anything front-end, I'll certainly play around with it.
 
 
