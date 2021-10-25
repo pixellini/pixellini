@@ -1,4 +1,9 @@
-### Hi there 👋
+### Vue.js fanboy
+
+### I love putting pixels on a screen
+Anything front-end, I'll certainly play around with it.
+
+
 
 <!--
 **pixellini/pixellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
