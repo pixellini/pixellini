@@ -41,7 +41,6 @@ If there's anything front-end, I'll certainly play around with it.
 - [LunchFox](https://lunchfox.com.au/) (in beta) <span>
   <img src="https://ionicframework.com/img/meta/logo.png" alt="ionic" width="20"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="react" width="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="20"/>
  </span>
 
 
