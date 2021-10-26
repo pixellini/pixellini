@@ -26,7 +26,7 @@ If there's anything front-end, I'll certainly play around with it.
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/640px-Figma-logo.svg.png" alt="figma" height="20"/>
   <img src="https://www.gstatic.com/devrel-devsite/prod/v0a713fec70a4b4c54311265d5142e962747a0e45a24063467564a2765c008ac7/firebase/images/touchicon-180.png" alt="firebase" height="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" height="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" height="20"/>
 </div>
 
 ### Current projects
