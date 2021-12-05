@@ -1,5 +1,5 @@
 ### Hi, I'm Jake! 👋
-I'm a Vue.js fanboy who loves putting pixels on a screen.
+I love making beautiful user interfaces & applications.
 If there's anything front-end, I'll certainly play around with it.
 
 ### Tech Stack
