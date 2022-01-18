@@ -1,6 +1,5 @@
 ### Hi, I'm Jake! 👋
 I love making beautiful user interfaces & applications.
-If there's anything front-end, I'll certainly play around with it.
 
 ### Tech Stack
 <div>
