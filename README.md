@@ -28,19 +28,9 @@ I love making beautiful user interfaces & applications.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" height="20"/>
 </div>
 
-### Current projects
-- [Hero Blue](https://heroblue.com.au/) (in beta) <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" alt="vue" width="20"/>
-  <img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="react" width="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="25"/>
-</span>
-
-
-- [LunchFox](https://lunchfox.com.au/)<span>
-  <img src="https://ionicframework.com/img/meta/logo.png" alt="ionic" width="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="react" width="20"/>
- </span>
+### Projects
+- [LunchFox](https://lunchfox.com.au/)
+- [Hero Blue](https://heroblue.com.au/) (in beta)
 
 
 <!--
