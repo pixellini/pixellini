@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 💻 Vue, Nuxt, React, Sass, Tailwind, Vite, Ionic
 - ☁️ AWS Certified (Cloud Practitioner & AI Practitioner)
 - 🌱 I’m currently learning Go <img src="https://www.evanmiller.org/images/four-days-of-go/gopher3.png" alt="Go Gopher" width="30">
-- 🎮 I'm currently exploring game development with Godot <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot logo" height="20" >
+- 🎮 My current hobbies are pixel art & game development with Godot <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot logo" height="20" >
 - 📫 How to reach me: jake@pixellini.com
 
