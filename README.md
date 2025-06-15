@@ -1,5 +1,4 @@
 ### Hi, I'm Jake! 👋
-**Creative Coder**
 
 UI · Mobile · Game Dev · Pixel Art · Animation
 
