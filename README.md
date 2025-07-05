@@ -14,7 +14,7 @@
 <img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=pixellini&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 
 #### 🎮 Hobbies
-Pixel Art | Game Development | Music
+Pixel Art | Game Development
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
