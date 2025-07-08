@@ -11,8 +11,6 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=icloud&logoColor=white)
 
-<img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=pixellini&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
-
 #### 🎮 Hobbies
 Pixel Art | Game Development
 
