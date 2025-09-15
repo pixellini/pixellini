@@ -1,5 +1,4 @@
 ### Hi, I'm Jake! 👋
-**Developer & Pixel Artist**
 
 #### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffd900?style=flat&logo=javascript&logoColor=black)
