@@ -15,7 +15,6 @@ Pixel Art | Game Development
 
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-646CFF?logo=dotnet&logoColor=white)
 
 
 
