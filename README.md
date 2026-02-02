@@ -1,21 +1,9 @@
-### Hi, I'm Jake! 👋
+### Hi, I'm Jake 👋
 
-#### 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd900?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42B883?logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/React-00ADD8?logo=react&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=icloud&logoColor=white)
+**Creative Front-End Developer** & **Pixel Artist**.
 
-#### 🎮 Hobbies
-Pixel Art | Game Development
+I build interactive web experiences and open-source tools.
 
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
+<br/>
 
-
-
-
+[Bluesky](https://bsky.app/profile/pixellini.bsky.social) · [CodePen](https://codepen.io/pixellini) · [Instagram](https://instagram.com/pixellini.dev)
