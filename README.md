@@ -1,6 +1,6 @@
 ### Hi, I'm Jake 👋
 
-**Creative Developer**.
+**Creative Developer**
 
 <br/>
 
