@@ -1,8 +1,6 @@
 ### Hi, I'm Jake 👋
 
-**Creative Front-End Developer** & **Pixel Artist**.
-
-I build interactive web experiences and open-source tools.
+**Creative Developer**.
 
 <br/>
 
